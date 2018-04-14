@@ -30,7 +30,8 @@ h2 {color: black;
 
 h3 {color: gray; 
     font-family: Helvetica; 
-    font-style: italic}
+    font-style: italic;
+    text-align: center;}
 
 ul{color: gray;
     font-family: Helvetica;}
