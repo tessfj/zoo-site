@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Muli');
+
+body {background-color: oldlace}
+
+.bird {color: blue; font-style: italic}
+
+.mammal {color: red; font-weight: bolder}
+
+.fish {color: orange; text-decoration: underline}
+
+.sloth{background-color: gray}
+
+.gray{background-color: gray}
+
+.salmon{background-color: salmon}
+
+.sienna{background-color: sienna}
+
+.bluegray{background-color: steelblue}
+
+h1 {color: rosybrown; 
+    font-family: Helvetica;
+    font-size: 40px;
+    text-align: center}
+
+h2 {color: black; 
+    font-family: 'Muli';
+    font-weight: bolder; 
+    text-align: center;}
+
+h3 {color: gray; 
+    font-family: Helvetica; 
+    font-style: italic}
+
+ul{color: gray;
+    font-family: Helvetica;}
+
+ul{display:flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around}
+
+p {font-family: Helvetica; 
+    color: gray; 
+    text-align: justify; 
+    font-weight: bolder}
+
+a {font-family: Helvetica; color:blue; text-align: center}
+
+footer {font-family: Helvetica;
+        text-align: justify;
+        color: gray}
+
+ul {list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+
+}
